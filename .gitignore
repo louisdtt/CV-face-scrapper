@@ -130,3 +130,6 @@ dmypy.json
 
 /face_scrapper
 /.idea
+/faces
+/images
+
