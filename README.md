@@ -6,3 +6,5 @@ Extracting faces with computer vision
 - Run `python face_scrapper.py` , it will extract every faces to a `faces` folder  
 
 - If you have issues with the wheel run : `pip install --upgrade pip setuptools wheel`
+# Warning
+- Works fine on linux, seems to have obscure issues on windows
