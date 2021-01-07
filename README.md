@@ -8,3 +8,5 @@ Extracting faces with computer vision
 - If you have issues with the wheel run : `pip install --upgrade pip setuptools wheel`
 # Warning
 - Works fine on linux, seems to have obscure issues on windows
+# To do
+- Dockerize
