@@ -9,4 +9,5 @@ Extracting faces with computer vision
 # Warning
 - Works fine on linux, seems to have obscure issues on windows
 # To do
+- Automate google image search and download
 - Dockerize
